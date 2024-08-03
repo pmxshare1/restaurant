@@ -78,3 +78,35 @@ div.footer-address {
   display: flex;
   justify-content: center;
 }
+
+div.reservation-form {
+  width: 50vw;
+}
+
+div.reservation-form .row {
+  height: 100px;
+}
+
+div.reservation-datetime label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+div.reservation-datetime .time {
+  margin-top: 10px;
+}
+
+d div.reservation-form input[type="text"],
+div.reservation-form input[type="number"],
+div.reservation-form input[type="email"],
+div.reservation-form textarea {
+  padding: 5px 10px;
+}
+
+div.reservation-content {
+  padding: 40px 0;
+}
+
+div.datetime-special-request {
+  height: 160px !important;
+}
