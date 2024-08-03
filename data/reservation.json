@@ -1,0 +1,16 @@
+{
+  "reservations": [
+    {
+      "id": "5c35",
+      "firstName": "John",
+      "lastName": "Smith",
+      "phone": "32432424",
+      "email": "john@mail.com",
+      "request": "reafdsafdsafdsafsd",
+      "resvDate": "2024-08-10",
+      "resvTime": "06:08",
+      "numberOfPeople": "10"
+    }
+  ],
+  "staffs": []
+}
